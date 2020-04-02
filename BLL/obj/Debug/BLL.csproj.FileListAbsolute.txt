@@ -1,0 +1,21 @@
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\bin\Debug\BLL.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\bin\Debug\BLL.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\bin\Debug\ClassLibrary1.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\bin\Debug\Entity.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\bin\Debug\Entity.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\obj\Debug\BLL.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\BLL\obj\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\obj\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\bin\Debug\ClassLibrary1.dll
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\bin\Debug\Entity.dll
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\bin\Debug\Entity.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\BLL\obj\Debug\BLL.csproj.CopyComplete

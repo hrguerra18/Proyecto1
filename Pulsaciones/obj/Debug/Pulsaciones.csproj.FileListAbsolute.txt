@@ -1,0 +1,27 @@
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe.config
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csprojAssemblyReference.cache
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csproj.CoreCompileInputs.cache
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.exe
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\bin\Debug\BLL.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Entity.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\bin\Debug\BLL.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Entity.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csproj.CopyComplete
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\bin\Debug\ClassLibrary1.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Pulsaciones\bin\Debug\ClassLibrary1.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe.config
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\bin\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Entity.dll
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\bin\Debug\ClassLibrary1.dll
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\bin\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Entity.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\bin\Debug\ClassLibrary1.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.exe
+C:\Users\Usuario\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.pdb

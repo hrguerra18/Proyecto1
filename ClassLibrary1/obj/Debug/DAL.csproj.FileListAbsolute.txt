@@ -1,0 +1,17 @@
+C:\Users\Helder Guerra\source\repos\Pulsaciones\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\ClassLibrary1\bin\Debug\Entity.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\ClassLibrary1\bin\Debug\Entity.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\ClassLibrary1\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Helder Guerra\source\repos\Pulsaciones\ClassLibrary1\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Helder Guerra\source\repos\Pulsaciones\ClassLibrary1\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Helder Guerra\source\repos\Pulsaciones\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Usuario\source\repos\Pulsaciones\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\ClassLibrary1\bin\Debug\Entity.dll
+C:\Users\Usuario\source\repos\Pulsaciones\ClassLibrary1\bin\Debug\Entity.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\ClassLibrary1\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Pulsaciones\ClassLibrary1\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Pulsaciones\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Usuario\source\repos\Pulsaciones\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

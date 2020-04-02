@@ -1,0 +1,10 @@
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Entity\bin\Debug\Entity.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Entity\bin\Debug\Entity.pdb
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Entity\obj\Debug\Entity.dll
+C:\Users\Helder Guerra\source\repos\Pulsaciones\Entity\obj\Debug\Entity.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\Entity\bin\Debug\Entity.dll
+C:\Users\Usuario\source\repos\Pulsaciones\Entity\bin\Debug\Entity.pdb
+C:\Users\Usuario\source\repos\Pulsaciones\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Pulsaciones\Entity\obj\Debug\Entity.dll
+C:\Users\Usuario\source\repos\Pulsaciones\Entity\obj\Debug\Entity.pdb
